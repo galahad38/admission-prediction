@@ -17,7 +17,7 @@ The code used to build the model itself is irrelevant for this project, as the o
      ```console
      C:\Windows\system32\ pip install -r requirements.txt
      ```
-4. Download [app.py](https://github.com/galahad38/admission-prediction/blob/main/app.py). [scaler.pkl](https://github.com/galahad38/admission-prediction/blob/main/scaler.pkl), and [logreg_model.pkl](https://github.com/galahad38/admission-prediction/blob/main/logreg_model.pkl). Make sure that they are all in the same folder.
+4. Download [app.py](https://github.com/galahad38/admission-prediction/blob/main/app.py), [scaler.pkl](https://github.com/galahad38/admission-prediction/blob/main/scaler.pkl), and [logreg_model.pkl](https://github.com/galahad38/admission-prediction/blob/main/logreg_model.pkl). Make sure that they are all in the same folder.
 5. Run the python script:
      launch command prompt in the folder containing app.py and run this command:
      ```console
